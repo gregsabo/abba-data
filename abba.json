@@ -1,0 +1,21 @@
+{
+  "agnetha": {
+    "name": "Agnetha Fältskog",
+    "bio": "Agnetha Åse Fältskog is a Swedish recording artist. She achieved success in Sweden after the release of her debut album Agnetha Fältskog in 1968, and reached international stardom as a member of the pop group ABBA, which has sold over 380 million albums and singles worldwide, making them one of the best-selling music artists in history.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Agnetha_F%C3%A4ltskog_2013-07-22_002.jpg/526px-Agnetha_F%C3%A4ltskog_2013-07-22_002.jpg"
+  },
+  "björn": {
+    "name": "Björn Ulvaeus",
+    "bio": "Björn Kristian Ulvaeus is a Swedish songwriter, producer, a former member of the Swedish musical group ABBA (1972–1982), and co-composer of the musicals Chess, Kristina från Duvemåla, and Mamma Mia!. He co-produced the film Mamma Mia! with fellow ABBA member and close friend Benny Andersson.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bj%C3%B6rn_Ulvaeus_in_May_2013.jpg/220px-Bj%C3%B6rn_Ulvaeus_in_May_2013.jpg"
+  },
+  "benny": {
+    "name": "Benny Andersson",
+    "bio": "Göran Bror 'Benny' Andersson, known professionally as Benny Andersson, is a Swedish musician, composer, member of the Swedish music group ABBA (1972–1982), and co-composer of the musicals Chess, Kristina från Duvemåla, and Mamma Mia!. For the 2008 film version of Mamma Mia! he worked also as an executive producer. Since 2001 he is active with his own band Benny Anderssons orkester."
+  },
+  "anni-Frid": {
+    "name": "Anni-Frid Lyngstad",
+    "bio": "Anni-Frid Synni, Princess Reuss of Plauen, widely known as Frida Lyngstad or by just the mononym Frida, is a Norwegian-born Swedish pop and jazz singer. Born in Norway to a Norwegian mother and a German father, she grew up in Sweden and was a member of the Swedish group ABBAbetween 1972 and 1982. After the break-up of ABBA, she continued an international solo singing career with mixed success. In 1996, Frida recorded her final album before 'retiring' from music. She now focuses on environmental issues.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Anni-Frid_Lyngstad%2C_May_2013.jpg"
+  }
+}
